@@ -1,8 +1,9 @@
 # Financial-Modeling-
 Based on my experience, I will summarize a guideline to build up financial modeling in Excel. Please feel free to correct my mistakes.
-Before we begin, let's take a brief look at the illustration below to know the procedure of making a valuation model:
+Before we begin, let's take a brief look at the illustration below to know the procedure for making a valuation model:
 ![image](https://github.com/LinhNguyen-MyLi/Financial-Modeling-in-Excel/assets/128978862/e5c2222f-a5cb-4f62-9646-929feb0b607f)
 
 1. Determine the range for historical data. General, if we want to forecast for the next 05 years then we should need 10 years of historical data. However, please notice that it depends on the nature of the financial company, for example: if the firm has just changed its accounting standard then you definitely shouldn't choose the data before that changing point. Last but not least, don't try to make a forecasted time period that is too long cause it will lose its accuracy.
 2. Download and smooth the data
-3. As the previous 
+3. As the first step stated, we will start with the revenue. So how we can know whether the revenue will go up or go down? The key feature is the market/industry. In general, a performance of a company will follow the trend of the market and we can use the forecasted growth rate from the trustworthiness organization and companies like Bloomberg, Eurostat... . However, I recommend that you should analyze and break down all products and services of the core business of the company. From that, we will list down all the key factors that affect the output product price. For example, if a company produces tires then we should care about the price of natural rubber, chemicals, petroleum, and oil. You might be surprised but the tire industry uses a huge amount of petroleum and oil cause those are key materials to make synthetic rubber - one of the main kinds of rubber for producing tires. In my case, the company is working specializes in manufacturing, transporting, and distributing Compressed Natural Gas (CNG Vietnam Joint Stock Company )
+5. 
