@@ -11,4 +11,8 @@ Before we begin, let's take a brief look at the illustration below to know the p
 6. For Debt, break down each of the debts. As for existing debt, try to determine the amount of remaining interest in the debts, whether those debts are frequent and tend to repeat after a period of time, what bank your company purchases the debt from, the volatility of the offered interest rate (you will estimate the future interest rate by adding the volatility to the current interest rate). Note: to estimate interest rate you could use the GARCH model (the use of GARCH model for forecasting has been mentioned in my other repo)
 7. Tackle the "loop" problem when we forecast. What is the "loop"? -> You can see this via the graph below.
    ![image](https://github.com/LinhNguyen-MyLi/Financial-Modeling-in-Excel/assets/128978862/be952c11-61d1-44ed-b71d-e32c3928dc7c)
-8. The 
+So to solve this loop in Excel we go to the Option function -> click Formulas -> stick the "Enable iterative calculation"
+8. DCF
+   ![image](https://github.com/LinhNguyen-MyLi/Financial-Modeling-in-Excel/assets/128978862/d53f7588-0ff0-4f4a-8dd2-6c2b3a9396f9)
+We can easily find FCFF and FCFE based on the already calculated (forecasted) data. The discounted factors will be present following
+10. 
